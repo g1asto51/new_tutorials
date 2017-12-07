@@ -1,2 +1,7 @@
 Great job!!!
+<<<<<<< HEAD
 No, it is a bad job!
+=======
+Yes, it is a great job!!!
+
+>>>>>>> 3faf51dbbcd4abe04d3e4ef40e87ead332828090
